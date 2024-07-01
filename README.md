@@ -1,7 +1,7 @@
 beck / he/him / 20 ('03) / pennsylvania, usa / aspiring artist of all sorts
 
 - currently learning: html
-- want to learn: css + js
+- want to learn: css, js, python
 
 <!---
 beckettschneider/beckettschneider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
